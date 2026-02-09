@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../B64XorDecryptionApi.Test/B64XorDecryptionApi.Test.csproj" />
   <Project Path="B64XorDecryptionApi.csproj" />
 </Solution>
